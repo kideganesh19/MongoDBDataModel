@@ -1,0 +1,7 @@
+Advanced Schema Patterns 
+
+1. Single Collection
+2. Subset
+3. Bucket
+4. Outlier
+5. Archive
